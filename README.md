@@ -1,5 +1,5 @@
 
-<h1 align="center"> Oiie eu sou o Mateus e futuro programador 👋</h1>
+<h1 align="center"> Oie eu sou o Mateus e futuro programador 👋</h1>
 
 
 - 🌱 Estudando Flask
@@ -14,6 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusdiSousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusdiSousa&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusdiSousa&theme=dracula" alt="MateusdiSousa" />
+  <img height="180em" src="https://cdn.picrew.me/shareImg/org/202212/188948_hdGE0L1n.png"/>
 </div>
   
 <h2 align= "center"> Técnologias Conhecidas</h2>
