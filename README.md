@@ -4,7 +4,7 @@
 
 - 🌱 Estudando Flask
 - 🌟 Experiência com método Scrum
-- 💬 Sou um estudante da Fatec que gosta resolver quebra-cabeças e apesar de não ser o mais inteligente compeso com esforço e estudo
+- 💬 Sou um estudante da Fatec, amante de desafios que testam o conhecimento e o raciocínio lógico
 - 📫 Contato: mateus.sousa.ra@gmail.com
 - 😄 Pronouns: Ele/Dele
 
