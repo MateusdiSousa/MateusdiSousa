@@ -2,11 +2,10 @@
 <h1 align="center"> Oie eu sou o Mateus e futuro programador 👋</h1>
 
 
-- 🌱 Estudando Flask
+- 🌱 Estudando JAVA
 - 🌟 Experiência com método Scrum
 - 💬 Sou um estudante da Fatec, amante de desafios que testam o conhecimento e o raciocínio lógico
 - 📫 Contato: mateus.sousa.ra@gmail.com
-- 😄 Pronouns: Ele/Dele
 
 ##
 <div align="center">
