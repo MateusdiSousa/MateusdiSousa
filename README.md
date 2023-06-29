@@ -1,5 +1,5 @@
 
-<h1 align="center">Oie, eu sou o Mateus 👋</h1>
+<h1 align="center">Olá, eu sou o Mateus 👋</h1>
 
 
 - 🌱 Estudando JavaScript
