@@ -2,10 +2,9 @@
 <h1 align="center">Olá, eu sou o Mateus 👋</h1>
 
 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando C#
 - 🌟 Experiência com método Scrum
 - 💬 Sou um estudante da Fatec, amante de desafios que testam o conhecimento e o raciocínio lógico
-- 📫 Contato: mateus.sousa.ra@gmail.com
 
 ##
 <div align="center">
