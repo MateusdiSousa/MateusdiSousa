@@ -27,9 +27,9 @@
 <h2>Status</h2>
 <div>
 <a href="https://github.com/MateusdiSousa">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusdisousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdisousa&langs_count=12&layout=compact&theme=gruvbox" >
-<img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mateusdisousa&theme=dracula" alt="ImBard" />
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusdiSousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusdiSousa&langs_count=12&layout=compact&theme=gruvbox" >
+<img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusdiSousa&theme=dracula" alt="MateusdiSousa" />
 </div>
 
  ##
