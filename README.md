@@ -1,7 +1,7 @@
 
 <h1>Hello! I am Mateus. 👋</h1>
 
-- 🌱 Studying C# and Linux
+- 🌱 Studying Java
 - 🌟 Experience with Scrum
 - 💬 Undergratuate student at Fatec, passionate about challenges that put knowledge and logic to the test.
 
