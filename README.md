@@ -5,7 +5,6 @@
 - 🌟 Experience with Scrum
 - 💬 Undergratuate student at Fatec, passionate about challenges that put knowledge and logic to the test.
 
-<a href = "mailto:mateus.sousa.ra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mateus-sousa-ba976423a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 <h2>I have worked with </h2>
